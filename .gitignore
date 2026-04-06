@@ -1,5 +1,11 @@
-*.xcuserstate
+# Xcode
 DerivedData/
 build/
-*.xcworkspace
 xcuserdata/
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# Swift Package Manager (si llegas a usarlo)
+.build/
