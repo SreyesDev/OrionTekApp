@@ -6,6 +6,3 @@ xcuserdata/
 
 # macOS
 .DS_Store
-
-# Swift Package Manager (si llegas a usarlo)
-.build/
